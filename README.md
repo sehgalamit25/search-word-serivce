@@ -56,6 +56,3 @@ Step 2. Build the docker image of the application by executing below command:
 #### Actuators
 
 * Can be accessed on: http://localhost:8080/actuator
-
-#### Postman Testing
-* Sample package included for testing: IKEA_Warehouse_Inventory_Service.postman_collection
