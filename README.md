@@ -41,7 +41,7 @@ Step 2. Build the docker image of the application by executing below command:
   ```
   or
   ```
-  docker run -p 8080:8080 searcj-word-service
+  docker run -p 8080:8080 search-word-service
   ```
 
 
